@@ -7,3 +7,10 @@ if (operation == "Sum")
     Console.WriteLine("\nResult:\n");
     Console.WriteLine(n1 + n2);
 }
+
+if (operation == "Subtract")
+{
+    Console.WriteLine("\nResult:\n");
+    Console.WriteLine(n1 - n2);
+}
+
