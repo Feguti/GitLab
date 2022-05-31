@@ -20,3 +20,4 @@ if (operation == "Multiply")
     Console.WriteLine(n1 * n2);
 }
 
+Console.WriteLine("Thank u my friend!");
