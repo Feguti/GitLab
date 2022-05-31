@@ -1,3 +1,3 @@
 # GitLabs
 
-- Operations: Sum, Subtract and Multiply.
+- Operations: Sum, Subtract, Multiply and Divide.
