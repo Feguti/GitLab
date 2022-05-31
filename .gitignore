@@ -1,0 +1,5 @@
+# O que será ignorado pelo git
+
+obj
+bin
+.vscode 
