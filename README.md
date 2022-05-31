@@ -4,3 +4,4 @@
 - Sum
 - Subtract 
 - Multiply
+- Divide
