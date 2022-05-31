@@ -20,3 +20,11 @@ if (operation == "Multiply")
     Console.WriteLine(n1 * n2);
 }
 
+if (operation == "Divide")
+{
+    Console.WriteLine("\nResult:\n");
+    Console.WriteLine(n1 / n2);
+}
+
+
+
